@@ -4,7 +4,7 @@ In this project, I will focus on training neural networks to put filters, like t
 
 I would start this project on just static images, but I’d be interested to explore the complexity of applying filters to videos. My guess is this would be beyond our capabilities in this project, but I’m not sure yet. 
 
-## Project goals:
+### Project goals:
 
 1. Create or find a dataset of faces to train the network on
 2. Train a neural network to recognize facial features
